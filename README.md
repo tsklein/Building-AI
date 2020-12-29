@@ -25,7 +25,7 @@ def main():
    # Implement different methods to predict y, evaluate their performance and choose most promising one.
    
    while user_does_not_interrupt 
-     # Observe and ecode sequence of gestures, e.g using camera plus some code
+     # Observe and decode sequence of gestures, e.g using camera plus some code
      
      # Predict y and print result
      
